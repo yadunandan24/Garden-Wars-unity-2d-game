@@ -1,0 +1,2011 @@
+fileFormatVersion: 2
+guid: 6a9e823e1de73114dad1c165a0c17232
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_fox_ranger__x1_talk_png_1354839639_0
+    21300002: npc_fox_ranger__x1_talk_png_1354839639_1
+    21300004: npc_fox_ranger__x1_talk_png_1354839639_2
+    21300006: npc_fox_ranger__x1_talk_png_1354839639_3
+    21300008: npc_fox_ranger__x1_talk_png_1354839639_4
+    21300010: npc_fox_ranger__x1_talk_png_1354839639_5
+    21300012: npc_fox_ranger__x1_talk_png_1354839639_6
+    21300014: npc_fox_ranger__x1_talk_png_1354839639_7
+    21300016: npc_fox_ranger__x1_talk_png_1354839639_8
+    21300018: npc_fox_ranger__x1_talk_png_1354839639_9
+    21300020: npc_fox_ranger__x1_talk_png_1354839639_10
+    21300022: npc_fox_ranger__x1_talk_png_1354839639_11
+    21300024: npc_fox_ranger__x1_talk_png_1354839639_12
+    21300026: npc_fox_ranger__x1_talk_png_1354839639_13
+    21300028: npc_fox_ranger__x1_talk_png_1354839639_14
+    21300030: npc_fox_ranger__x1_talk_png_1354839639_15
+    21300032: npc_fox_ranger__x1_talk_png_1354839639_16
+    21300034: npc_fox_ranger__x1_talk_png_1354839639_17
+    21300036: npc_fox_ranger__x1_talk_png_1354839639_18
+    21300038: npc_fox_ranger__x1_talk_png_1354839639_19
+    21300040: npc_fox_ranger__x1_talk_png_1354839639_20
+    21300042: npc_fox_ranger__x1_talk_png_1354839639_21
+    21300044: npc_fox_ranger__x1_talk_png_1354839639_22
+    21300046: npc_fox_ranger__x1_talk_png_1354839639_23
+    21300048: npc_fox_ranger__x1_talk_png_1354839639_24
+    21300050: npc_fox_ranger__x1_talk_png_1354839639_25
+    21300052: npc_fox_ranger__x1_talk_png_1354839639_26
+    21300054: npc_fox_ranger__x1_talk_png_1354839639_27
+    21300056: npc_fox_ranger__x1_talk_png_1354839639_28
+    21300058: npc_fox_ranger__x1_talk_png_1354839639_29
+    21300060: npc_fox_ranger__x1_talk_png_1354839639_30
+    21300062: npc_fox_ranger__x1_talk_png_1354839639_31
+    21300064: npc_fox_ranger__x1_talk_png_1354839639_32
+    21300066: npc_fox_ranger__x1_talk_png_1354839639_33
+    21300068: npc_fox_ranger__x1_talk_png_1354839639_34
+    21300070: npc_fox_ranger__x1_talk_png_1354839639_35
+    21300072: npc_fox_ranger__x1_talk_png_1354839639_36
+    21300074: npc_fox_ranger__x1_talk_png_1354839639_37
+    21300076: npc_fox_ranger__x1_talk_png_1354839639_38
+    21300078: npc_fox_ranger__x1_talk_png_1354839639_39
+    21300080: npc_fox_ranger__x1_talk_png_1354839639_40
+    21300082: npc_fox_ranger__x1_talk_png_1354839639_41
+    21300084: npc_fox_ranger__x1_talk_png_1354839639_42
+    21300086: npc_fox_ranger__x1_talk_png_1354839639_43
+    21300088: npc_fox_ranger__x1_talk_png_1354839639_44
+    21300090: npc_fox_ranger__x1_talk_png_1354839639_45
+    21300092: npc_fox_ranger__x1_talk_png_1354839639_46
+    21300094: npc_fox_ranger__x1_talk_png_1354839639_47
+    21300096: npc_fox_ranger__x1_talk_png_1354839639_48
+    21300098: npc_fox_ranger__x1_talk_png_1354839639_49
+    21300100: npc_fox_ranger__x1_talk_png_1354839639_50
+    21300102: npc_fox_ranger__x1_talk_png_1354839639_51
+    21300104: npc_fox_ranger__x1_talk_png_1354839639_52
+    21300106: npc_fox_ranger__x1_talk_png_1354839639_53
+    21300108: npc_fox_ranger__x1_talk_png_1354839639_54
+    21300110: npc_fox_ranger__x1_talk_png_1354839639_55
+    21300112: npc_fox_ranger__x1_talk_png_1354839639_56
+    21300114: npc_fox_ranger__x1_talk_png_1354839639_57
+    21300116: npc_fox_ranger__x1_talk_png_1354839639_58
+    21300118: npc_fox_ranger__x1_talk_png_1354839639_59
+    21300120: npc_fox_ranger__x1_talk_png_1354839639_60
+    21300122: npc_fox_ranger__x1_talk_png_1354839639_61
+    21300124: npc_fox_ranger__x1_talk_png_1354839639_62
+    21300126: npc_fox_ranger__x1_talk_png_1354839639_63
+    21300128: npc_fox_ranger__x1_talk_png_1354839639_64
+    21300130: npc_fox_ranger__x1_talk_png_1354839639_65
+    21300132: npc_fox_ranger__x1_talk_png_1354839639_66
+    21300134: npc_fox_ranger__x1_talk_png_1354839639_67
+    21300136: npc_fox_ranger__x1_talk_png_1354839639_68
+    21300138: npc_fox_ranger__x1_talk_png_1354839639_69
+    21300140: npc_fox_ranger__x1_talk_png_1354839639_70
+    21300142: npc_fox_ranger__x1_talk_png_1354839639_71
+    21300144: npc_fox_ranger__x1_talk_png_1354839639_72
+    21300146: npc_fox_ranger__x1_talk_png_1354839639_73
+    21300148: npc_fox_ranger__x1_talk_png_1354839639_74
+    21300150: npc_fox_ranger__x1_talk_png_1354839639_75
+    21300152: npc_fox_ranger__x1_talk_png_1354839639_76
+    21300154: npc_fox_ranger__x1_talk_png_1354839639_77
+    21300156: npc_fox_ranger__x1_talk_png_1354839639_78
+    21300158: npc_fox_ranger__x1_talk_png_1354839639_79
+    21300160: npc_fox_ranger__x1_talk_png_1354839639_80
+    21300162: npc_fox_ranger__x1_talk_png_1354839639_81
+    21300164: npc_fox_ranger__x1_talk_png_1354839639_82
+    21300166: npc_fox_ranger__x1_talk_png_1354839639_83
+    21300168: npc_fox_ranger__x1_talk_png_1354839639_84
+    21300170: npc_fox_ranger__x1_talk_png_1354839639_85
+    21300172: npc_fox_ranger__x1_talk_png_1354839639_86
+    21300174: npc_fox_ranger__x1_talk_png_1354839639_87
+    21300176: npc_fox_ranger__x1_talk_png_1354839639_88
+    21300178: npc_fox_ranger__x1_talk_png_1354839639_89
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ab1f6cedb01b94f9794837ff0fedd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10549c69dcf7f69419aec9f25ef08a4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5830b2e26867b45863268d93eff99c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacb8961c21efd74baa1526ea1601ff9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68351f651b74bb448e15810641f7712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac0b53b208d1f346aa2cbd1c67615be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_6
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3579095a0ecfeb498a62bd918b4a610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620a9e946be96124c960c5b211cc8371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9572affe762e3614bbed7ba5ea0efc89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea18b5b558fd52d449706fc0ea64aabe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f87a4f123195e4180ba70fd88ecce6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_11
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f512952061483414b9403f029e01a59f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_12
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15228b0772d35f743bbfcaedf9a65ab4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_13
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fccaba74a9f83488040cd8d99526c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_14
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b85aa8af041e2e4ea9f3c4d3babc4c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb08a0ae8403cf34f8e4271ea11bacc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_16
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe6e350996bc9c46ad4ae02a85a2ee5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ec7e1dd58fb0e48a1dcfbabf6b8f83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_18
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770f36c4abe4bd44ba35905c74870fd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde7643eebe6ab647a7e4b35de90d44f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_20
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18799e2fc42e2d94d950d9bac3f5ec3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_21
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7108f4f37477e47b1e45b0ff96aa35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_22
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b6cd114f210b440917b0b150f478a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_23
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8e68ee0d7668144b867fe78dea00b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_24
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d0c8a5b84a87f4a897a83534b53d50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_25
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f16bca88fdc6143a4c8265c73ff777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_26
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b30a7934b92ec54dbac75ab2eaf2bf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_27
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7f0ab959edb0c45a6f261f14fbd2e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_28
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bd7d42859922f4086b5d5cbf3e7a70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_29
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9f4cad05b8915449d2d21ba6e4976e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389e561a6ded2f54194fc4f4cc4ff6ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8102ceb4f74ac340bbd9ca4755641f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_32
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b77d3e0535577488cc7d7229424cf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_33
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273196e20380a8941bb5deab9834e989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_34
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273c6be9e3445744288f68583641d362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_35
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4541bfab3b5f3354c91dadf679d798fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_36
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46d9c29dbfbc2d4e99fd6f4476c4d18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_37
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163a6c04bb9a98540b3a2c8a8a40b99d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_38
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382b1b865dbf7d34c8fac2df82e3c0be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_39
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a5bfc7727602a48b2c94b1bb613bb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_40
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ef9e3011a49d54a86a144cabde2187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_41
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1d9dccbf6b3ea41a3c56e348c1cef3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_42
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20ed0d54b862054b844cf746ee865e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_43
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c12012f4077844f90b8abfb52bec7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_44
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3c736f592bb5c46b27a991b7ad2f62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01112ec4c7f8a64b92c213ddb5b40a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_46
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf6cbf6de5d41749950e730775c9499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_47
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40550db3830c2d46a8e64ed5e87c344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_48
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3bf78f40c53c54c94478375c689589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_49
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c2128ba74f9df47a3cd141a8030357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_50
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55659a9a71d71df46abb84e305f253d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_51
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dbaf0e0e8d2334281dc0ce85c2d2d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_52
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6002e9b823f9874284deced6841cce3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_53
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9820b2373b0474dbda444a8d2b3597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_54
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a27d2df4ecbe6849a29d6bb818236ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_55
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cf63f7ea2df0c4593aa16942ad8c58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_56
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba703383724fb10409dfb934ffbc800f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_57
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b26defb191b502498742a0791c99d04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_58
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dcc869a68b9bf479f5cd28f7565e49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_59
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbff9aa6785f274b905741892a6eb1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d674fb06451b744889788453e50fdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_61
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724898bfab9dc034bb3ae5421d977860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_62
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927ba2d7918859d42a860a3d080ad879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_63
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e77ee0cfc8bea4791faba4def09778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_64
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e853ee3cf9f1949a6972910bc19b61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_65
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c417da1670739d04287750d70a3d0b9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_66
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa05b29195b37144bd943f8e57ac8ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_67
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09cdcb7b92826243a17fee5ce8abb71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_68
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3b0472d9603a74a87076b164c7021f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_69
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1914abf6f184c94b820fdb5dd7ceabe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_70
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223f433326212d841a6e77dd2207fa8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_71
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d01bf32973f9649a3a0c4949d2fc9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_72
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c0511ae45819d48bb4c3ae077be5b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_73
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9b27040ba0d9448957bb47597cbb29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_74
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c566e7fbadfce33429dc128fdb07e143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbfbd549b0485b41a502a91f0a91cfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_76
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa99c6a873421a044863d4ebdc0094d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_77
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a710e5535bfa646b25c48372e4b3f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_78
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b106ee7d28f1df946b0fce45822018dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_79
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ace72e41e105bd41b1493ae1edee713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_80
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348887f1bb194b64189440aff14004ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_81
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181c713341070194c8fa6c3cac4ccd56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_82
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dd52b6481c7a647b8ef62fe6e65ec6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_83
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9644818687d4a41a79f9c191fb3a3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_84
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2af69babe07494ca9a10e3d57c6bec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_85
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4c839ff412a0d4b9fa29e77669f1f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_86
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f41a6b86941804d9061bcd7154ef49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_87
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd43af02bda5c1a4db1526a15e7c51ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_88
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16013e2f10c87284f99b7eba2e27c428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_ranger__x1_talk_png_1354839639_89
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eca457d16c6d4c4b9f56ef7cb80a31f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cf6fd40259e853047bef963a385f1285
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

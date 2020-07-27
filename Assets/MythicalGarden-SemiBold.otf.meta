@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6987c77c5c238804aa23505d7121f83a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mythical Garden
+  fontNames:
+  - Mythical Garden
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 51f2a8f5a94abdb4083fad63a89e2349, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
